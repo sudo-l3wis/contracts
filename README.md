@@ -1,2 +1,2 @@
-# CraftedHandles
-A Smart Contract for username handles.
+# Smart Contracts
+A collection of smart contracts.
