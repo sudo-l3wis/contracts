@@ -2,7 +2,7 @@
 scilla_version 0
 
 (*Scilla Library*)
-library CraftedHandles
+library Handles
 
 let one_msg =
   fun (msg: Message) =>
