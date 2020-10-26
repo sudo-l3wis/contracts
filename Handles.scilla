@@ -30,7 +30,7 @@ let make_error =
     { _exception : "Error"; code : result_code }
 
 (*Contract Definition*)
-contract CraftedHandle
+contract Handles
 (
 	owner : ByStr20,
 	init_fee : Uint128
